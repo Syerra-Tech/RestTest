@@ -1,0 +1,3902 @@
+
+
+.weddingflowerssearchlist {
+  width               : 100%;
+  min-width           : 2880px;
+  height              : 100vh;
+  min-height          : 3523px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.weddingflowerssearchlist .syerralogo01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 150px;
+  width               : 460px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 1px;
+  width               : 2881px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .login {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2535px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingflowerssearchlist .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2097px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingflowerssearchlist .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1682px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingflowerssearchlist .aboutus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1887px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingflowerssearchlist .signup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2678px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingflowerssearchlist .vendors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2307px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingflowerssearchlist .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 152px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2518px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .wecurrentlyonlyop {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 163px;
+  height              : 68px;
+  width               : 1205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 894px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 410px;
+  height              : 2px;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .weddingfloristsin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 285px;
+  height              : 114px;
+  width               : 1115px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1646px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 72.0px;
+}
+.weddingflowerssearchlist .weddingfloristsin .span1 {
+  
+}
+.weddingflowerssearchlist .weddingfloristsin .span2 {
+  color               : rgba(40, 82, 164, 1.0);
+}
+.weddingflowerssearchlist .rectangle {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 411px;
+  height              : 223px;
+  box-sizing          : border-box;
+  width               : 2879px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 478px;
+  height              : 90px;
+  box-sizing          : border-box;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2325px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .sortbyprice {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 505px;
+  height              : 36px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2343px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .a150floweristsnearb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 472px;
+  height              : 102px;
+  width               : 602px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .downchevron {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 513px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2667px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .downchevron .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .downchevron1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1265px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.weddingflowerssearchlist .downchevron1 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .downchevron2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1527px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.weddingflowerssearchlist .downchevron2 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .downchevron3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1896px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.weddingflowerssearchlist .downchevron3 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 478px;
+  height              : 90px;
+  box-sizing          : border-box;
+  width               : 1002px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1172px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .research {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 498px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2105px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .research .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .research .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 30px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .searchforflowerist {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 505px;
+  height              : 36px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1190px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(117, 117, 117, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .price {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1236px;
+  height              : 70px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .rating {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1498px;
+  height              : 70px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .distance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1862px;
+  height              : 68px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .rectangle3 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 3041px;
+  height              : 482px;
+  box-sizing          : border-box;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : -3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle4 {
+  background-color    : rgba(255, 254, 254, 1.0);
+  top                 : 1347px;
+  height              : 69px;
+  box-sizing          : border-box;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle5 {
+  background-color    : rgba(255, 254, 254, 1.0);
+  top                 : 1347px;
+  height              : 69px;
+  box-sizing          : border-box;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 484px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .minimum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1370px;
+  height              : 24px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 205px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .maximum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1370px;
+  height              : 24px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 499px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .venue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 924px;
+  height              : 24px;
+  width               : 86px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 924px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 973px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1022px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1071px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a100 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1169px;
+  height              : 24px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .flowers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 973px;
+  height              : 24px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .catering {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1022px;
+  height              : 24px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .music {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1071px;
+  height              : 24px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .photography {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 24px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .total {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1169px;
+  height              : 24px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a2000000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1169px;
+  height              : 24px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a190000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a380000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1071px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a500000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1022px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a140000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 973px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a800000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 924px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1590px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1640px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1690px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1740px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1640px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1690px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1640px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1590px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1590px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1590px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1590px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1640px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1640px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1690px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1690px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1690px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1740px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1740px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1740px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1740px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .downchevron4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 851px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.weddingflowerssearchlist .downchevron4 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .budgetbreakdown {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 822px;
+  height              : 70px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 891px;
+  height              : 1px;
+  width               : 621px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .line31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1305px;
+  height              : 1px;
+  width               : 621px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .line4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1381px;
+  height              : 2px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .thefollowingfloris {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 719px;
+  height              : 57px;
+  width               : 871px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .facebook1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2539px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .facebook1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .instagram1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1752px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .instagram1 .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .instagram1 .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23.50%;
+  height              : 53.00%;
+  width               : 53.00%;
+  position            : absolute;
+  margin              : 0;
+  left                : 23.50%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .instagram1 .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 11.00%;
+  top                 : 12.00%;
+  height              : 18.00%;
+  width               : 18.00%;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1953px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .twitter .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2358px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .linkedin .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .linkedin .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 41px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .linkedin .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 41px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .linkedin .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2144px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .youtube .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .youtube .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 52px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .aboutsyerra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3234px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .vendorsignup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3234px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 552px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .help {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3234px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1021px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .ourcompany {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3128px;
+  height              : 71px;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .forvendors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3128px;
+  height              : 71px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 552px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .help1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3128px;
+  height              : 71px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1021px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .investors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3280px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .vendorresources {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3280px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 552px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .contactus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3280px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1021px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .careers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3326px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .ourteamud83dudcaa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3372px;
+  height              : 32px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.weddingflowerssearchlist .ourteamud83dudcaa .span1 {
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .ourteamud83dudcaa .span2 {
+  font-family         : "AppleColorEmoji", Helvetica, Arial, serif;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .advertisewithus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3426px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .line5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 2px;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .line32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1569px;
+  height              : 2px;
+  width               : 622px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .line33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1929px;
+  height              : 2px;
+  width               : 622px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1984px;
+  height              : 50px;
+  box-sizing          : border-box;
+  width               : 245px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .radiusinmiles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1995px;
+  height              : 24px;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 138px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle7 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1984px;
+  height              : 50px;
+  box-sizing          : border-box;
+  width               : 245px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle8 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 2064px;
+  height              : 50px;
+  width               : 245px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .zipcode {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1995px;
+  height              : 24px;
+  width               : 217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 418px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .search {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2075px;
+  height              : 24px;
+  width               : 118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle9 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 820px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a225000per50gue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 38px;
+  width               : 333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1729px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a500000per100gu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 38px;
+  width               : 355px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2073px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a5packagesavailable {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 38px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2451px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .viewall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1272px;
+  height              : 38px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2542px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .min15ofbudget {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1149px;
+  height              : 38px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1959px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .max45ofbudget {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1149px;
+  height              : 38px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .loremipsumdolorsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 966px;
+  height              : 171px;
+  width               : 907px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a6091838329 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 952px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .a92 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 905px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 820px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .palmtreeparadise {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 846px;
+  height              : 36px;
+  width               : 385px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .heart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 857px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2616px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .heart .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .line51 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 846px;
+  height              : 37px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .twinrivers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 854px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .save {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 854px;
+  height              : 24px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2644px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .compare {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 854px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle10 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 857px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2440px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle11 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 820px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .loremipsumdolorsi1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 997px;
+  height              : 129px;
+  width               : 795px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle12 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 1231px;
+  height              : 77px;
+  box-sizing          : border-box;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2525px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a60918383291 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 952px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .a921 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 905px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 820px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star27 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .picpro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 846px;
+  height              : 36px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .heart1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 914px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .heart1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .twinrivers1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 852px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1902px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .save1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 911px;
+  height              : 24px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2657px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .compare1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 953px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle13 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 955px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2574px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .labelview {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1252px;
+  height              : 36px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2591px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .line52 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 845px;
+  height              : 38px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1893px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 841px;
+  height              : 27px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .initialcost {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 874px;
+  height              : 21px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .rectangle14 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1397px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a225000per50gue1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1814px;
+  height              : 38px;
+  width               : 333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1729px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a500000per100gu1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1814px;
+  height              : 38px;
+  width               : 355px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2073px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a5packagesavailable1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1814px;
+  height              : 38px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2451px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .viewall1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1849px;
+  height              : 38px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2542px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .min15ofbudget1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1726px;
+  height              : 38px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1959px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .max45ofbudget1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1726px;
+  height              : 38px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .loremipsumdolorsi2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1543px;
+  height              : 171px;
+  width               : 907px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a60918383292 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1529px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .a922 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1482px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1397px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .palmtreeparadise1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1423px;
+  height              : 36px;
+  width               : 385px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .heart2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1434px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2616px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .heart2 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .line53 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1423px;
+  height              : 37px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .twinrivers2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1431px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .save2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1431px;
+  height              : 24px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2644px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .compare2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1431px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle15 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1434px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2440px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle16 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1397px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .loremipsumdolorsi3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1574px;
+  height              : 129px;
+  width               : 795px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle17 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 1808px;
+  height              : 77px;
+  box-sizing          : border-box;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2525px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a60918383293 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1529px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .a923 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1482px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1397px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star36 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star37 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star38 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star39 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1474px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .picpro1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1423px;
+  height              : 36px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .heart3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1491px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .heart3 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .twinrivers3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1429px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1902px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .save3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1488px;
+  height              : 24px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2657px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .compare3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1530px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle18 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1532px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2574px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .labelview1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1829px;
+  height              : 36px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2591px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .line54 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1422px;
+  height              : 38px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1893px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a1501 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1418px;
+  height              : 27px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .initialcost1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1451px;
+  height              : 21px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .rectangle19 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1980px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a225000per50gue2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2397px;
+  height              : 38px;
+  width               : 333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1729px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a500000per100gu2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2397px;
+  height              : 38px;
+  width               : 355px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2073px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a5packagesavailable2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2397px;
+  height              : 38px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2451px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .viewall2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2432px;
+  height              : 38px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2542px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .min15ofbudget2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2309px;
+  height              : 38px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1959px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .max45ofbudget2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2309px;
+  height              : 38px;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .loremipsumdolorsi4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2126px;
+  height              : 171px;
+  width               : 907px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .a60918383294 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2112px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .a924 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2065px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1980px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star42 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star43 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star44 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .palmtreeparadise2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2006px;
+  height              : 36px;
+  width               : 385px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .heart4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2017px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2616px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .heart4 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .line55 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2006px;
+  height              : 37px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .twinrivers4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .save4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : 24px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2644px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .compare4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle20 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2017px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2440px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .rectangle21 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1980px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .loremipsumdolorsi5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2157px;
+  height              : 129px;
+  width               : 795px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle22 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 2391px;
+  height              : 77px;
+  box-sizing          : border-box;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2525px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a60918383295 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2112px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .a925 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2065px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1980px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star45 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star46 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star47 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star48 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .star49 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2057px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .picpro2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2006px;
+  height              : 36px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingflowerssearchlist .heart5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2074px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .heart5 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .twinrivers5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2012px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1902px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .save5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2071px;
+  height              : 24px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2657px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .compare5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2113px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .rectangle23 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2115px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2574px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .labelview2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2412px;
+  height              : 36px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2591px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingflowerssearchlist .line56 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2005px;
+  height              : 38px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1893px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingflowerssearchlist .a1502 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : 27px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingflowerssearchlist .initialcost2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2034px;
+  height              : 21px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}

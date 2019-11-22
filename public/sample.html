@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="app/sample.js"></script>
+</head>
+<body>
+<h1>SAMPLE12345</h1>
+
+<button onclick="fuck()">Try it</button>
+<button onclick="greeting()">Greeting</button>
+<button onclick="x()">Populate</button>
+
+<p id="demo"></p>
+
+<p id="demo2"></p>
+
+<div id="div1">
+
+</div>
+
+<script>
+    function x(){
+        var localhost = "http://localhost:8080/";
+        var url = localhost + "greeting/getGreeting";
+        // fetch(url).then(res => res.json()).then(resp => {
+        //     document.getElementById("demo2").innerHTML = JSON.stringify(resp);
+        // });
+
+        // fetch(url).then(res => res.json()).then(resp => {
+        //     var para = document.createElement("p");
+        //     var node = document.createTextNode(JSON.stringify(resp));
+        //     para.appendChild(node);
+        //     var element = document.getElementById("div1");
+        //     element.appendChild(para);
+        // });
+    //     fetch(url).then(resp => {
+    //         document.getElementById("demo2").innerHTML = resp.firstName;
+    // });
+
+        fetch(url).then(res => res.json()).then(resp => {
+            var ses = JSON.stringify(resp);
+             var json = JSON.parse(ses);
+        document.getElementById("demo").innerHTML = json.content;
+
+        document.getElementById("demo2").innerHTML = json.firstName;
+        });
+
+    }
+
+</script>
+</body>
+</html>

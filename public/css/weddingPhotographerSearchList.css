@@ -1,0 +1,3288 @@
+
+
+.weddingphotographersearchlist {
+  width               : 100%;
+  min-width           : 2880px;
+  height              : 100vh;
+  min-height          : 3523px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.weddingphotographersearchlist .syerralogo01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 150px;
+  width               : 460px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 1px;
+  width               : 2881px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .login {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2535px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingphotographersearchlist .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2097px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingphotographersearchlist .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1682px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingphotographersearchlist .aboutus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1887px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingphotographersearchlist .signup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2678px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingphotographersearchlist .vendors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2307px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.weddingphotographersearchlist .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 152px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2518px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .wecurrentlyonlyop {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 163px;
+  height              : 68px;
+  width               : 1205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 894px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 410px;
+  height              : 2px;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .weddingphotographer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 285px;
+  height              : 114px;
+  width               : 1322px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1439px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 72.0px;
+}
+.weddingphotographersearchlist .weddingphotographer .span1 {
+  
+}
+.weddingphotographersearchlist .weddingphotographer .span2 {
+  color               : rgba(40, 82, 164, 1.0);
+}
+.weddingphotographersearchlist .rectangle {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 411px;
+  height              : 223px;
+  box-sizing          : border-box;
+  width               : 2879px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 478px;
+  height              : 90px;
+  box-sizing          : border-box;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2325px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .sortbyprice {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 505px;
+  height              : 36px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2343px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .a150photographersne {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 472px;
+  height              : 102px;
+  width               : 602px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .downchevron {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 513px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2667px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .downchevron .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .downchevron1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1265px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.weddingphotographersearchlist .downchevron1 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .downchevron2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1494px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.weddingphotographersearchlist .downchevron2 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .downchevron3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1867px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.weddingphotographersearchlist .downchevron3 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .downchevron4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2189px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .downchevron4 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .downchevron5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2304px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .downchevron5 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 478px;
+  height              : 90px;
+  box-sizing          : border-box;
+  width               : 1002px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1172px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .research {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 498px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2105px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .research .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .research .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 30px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .searchforphotograp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 505px;
+  height              : 36px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1205px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(117, 117, 117, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .price {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1236px;
+  height              : 70px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .photographerammenit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1468px;
+  height              : 70px;
+  width               : 516px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .rating {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1838px;
+  height              : 70px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .availability {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2160px;
+  height              : 70px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2566px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .blchapelweddingview1compressorfotor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2566px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .distance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2270px;
+  height              : 68px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .rectangle4 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 3041px;
+  height              : 482px;
+  box-sizing          : border-box;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : -3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .rectangle5 {
+  background-color    : rgba(255, 254, 254, 1.0);
+  top                 : 1347px;
+  height              : 69px;
+  box-sizing          : border-box;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .rectangle6 {
+  background-color    : rgba(255, 254, 254, 1.0);
+  top                 : 1347px;
+  height              : 69px;
+  box-sizing          : border-box;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 484px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .minimum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1370px;
+  height              : 24px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 205px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .maximum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1370px;
+  height              : 24px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 499px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .venue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 924px;
+  height              : 24px;
+  width               : 86px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 924px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 973px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1022px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1071px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 24px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a100 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1169px;
+  height              : 24px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .flowers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 973px;
+  height              : 24px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .catering {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1022px;
+  height              : 24px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .music {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1071px;
+  height              : 24px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .photography {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 24px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .total {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1169px;
+  height              : 24px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a2000000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1169px;
+  height              : 24px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a190000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a380000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1071px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a500000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1022px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a140000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 973px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a800000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 924px;
+  height              : 24px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle7 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1567px;
+  height              : 30px;
+  box-sizing          : border-box;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .fulleventservice {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1570px;
+  height              : 24px;
+  width               : 279px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle8 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1617px;
+  height              : 30px;
+  box-sizing          : border-box;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .videorecording {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1620px;
+  height              : 24px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle9 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1667px;
+  height              : 30px;
+  box-sizing          : border-box;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .postprocessing {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1670px;
+  height              : 24px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle10 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1717px;
+  height              : 30px;
+  box-sizing          : border-box;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .cateringservices {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1720px;
+  height              : 24px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle11 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1767px;
+  height              : 30px;
+  box-sizing          : border-box;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .barservices {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1770px;
+  height              : 24px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1930px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1980px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2030px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2080px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1980px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2030px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1980px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1930px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1930px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1930px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1930px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1980px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1980px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2030px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2030px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2030px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2080px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2080px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2080px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2080px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .rectangle12 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 820px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .loremipsumdolorsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 997px;
+  height              : 129px;
+  width               : 795px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle13 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 1231px;
+  height              : 77px;
+  box-sizing          : border-box;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2525px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .a6091838329 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 952px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .a92 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 905px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 820px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .rectangle14 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1402px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .rectangle15 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1984px;
+  height              : 522px;
+  box-sizing          : border-box;
+  width               : 1693px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .largeweddingvenuessingaporeandazfotor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1402px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 897px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .blchapelweddingview1compressorfotor1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1984px;
+  height              : 522px;
+  width               : 650px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .picpro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 846px;
+  height              : 36px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .heart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 914px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .heart .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .twinrivers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 852px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1902px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .save {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 911px;
+  height              : 24px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2657px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .compare {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 953px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .companydescription {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1556px;
+  height              : 171px;
+  width               : 795px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle16 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 955px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2574px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .phonenumber {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1542px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .a921 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1495px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .star25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1487px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1487px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star27 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1487px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1487px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1487px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .companyname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1436px;
+  height              : 36px;
+  width               : 317px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .location {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1445px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2077px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .downchevron6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 851px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.weddingphotographersearchlist .downchevron6 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .budgetbreakdown {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 822px;
+  height              : 70px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 891px;
+  height              : 1px;
+  width               : 621px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1305px;
+  height              : 1px;
+  width               : 621px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1381px;
+  height              : 2px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .thefollowingphotog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 719px;
+  height              : 57px;
+  width               : 1205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1047px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(99, 99, 99, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .labelview {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1252px;
+  height              : 36px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2591px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .loremipsumdolorsi1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2136px;
+  height              : 171px;
+  width               : 795px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a60918383291 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2122px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .a922 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2075px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .star30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2067px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2067px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2067px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2067px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2067px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .palmtreeparadise {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2016px;
+  height              : 36px;
+  width               : 385px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .twinrivers1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2024px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .facebook1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2539px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .facebook1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .instagram1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1752px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .instagram1 .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .instagram1 .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23.50%;
+  height              : 53.00%;
+  width               : 53.00%;
+  position            : absolute;
+  margin              : 0;
+  left                : 23.50%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .instagram1 .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 11.00%;
+  top                 : 12.00%;
+  height              : 18.00%;
+  width               : 18.00%;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1953px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .twitter .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2358px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .linkedin .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .linkedin .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 41px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .linkedin .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 41px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .linkedin .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3145px;
+  height              : 100px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2144px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .youtube .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .youtube .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 52px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .aboutsyerra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3234px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .vendorsignup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3234px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 552px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .help {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3234px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1021px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .ourcompany {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3128px;
+  height              : 71px;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .forvendors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3128px;
+  height              : 71px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 552px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .help1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3128px;
+  height              : 71px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1021px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .investors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3280px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .vendorresources {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3280px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 552px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .contactus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3280px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1021px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .careers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3326px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .ourteamud83dudcaa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3372px;
+  height              : 32px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.weddingphotographersearchlist .ourteamud83dudcaa .span1 {
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .ourteamud83dudcaa .span2 {
+  font-family         : "AppleColorEmoji", Helvetica, Arial, serif;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .advertisewithus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3426px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .line5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2016px;
+  height              : 37px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .loremipsumdolorsi2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2726px;
+  height              : 171px;
+  width               : 795px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a60918383292 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2712px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1732px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .a923 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2665px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1993px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .star35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2657px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1839px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star36 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2657px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star37 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2657px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star38 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2657px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1889px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .star39 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2657px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1939px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .palmtreeparadise1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2606px;
+  height              : 36px;
+  width               : 385px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1739px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.weddingphotographersearchlist .twinrivers2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2614px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .line51 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2606px;
+  height              : 37px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 2px;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line52 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 845px;
+  height              : 38px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1893px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line53 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1438px;
+  height              : 38px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2061px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .a150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 841px;
+  height              : 27px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .initialcost {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 874px;
+  height              : 21px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .rectangle17 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 1811px;
+  height              : 77px;
+  box-sizing          : border-box;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2525px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .heart1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1494px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .heart1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .save1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1491px;
+  height              : 24px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2657px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .compare1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1533px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle18 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1535px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2574px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .labelview1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1832px;
+  height              : 36px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2591px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a1501 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1421px;
+  height              : 27px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .initialcost1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1454px;
+  height              : 21px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .rectangle19 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 2391px;
+  height              : 77px;
+  box-sizing          : border-box;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2525px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .heart2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2074px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .heart2 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .save2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2071px;
+  height              : 24px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2657px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .compare2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2113px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle20 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2115px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2574px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .labelview2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2412px;
+  height              : 36px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2591px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .a1502 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : 27px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .initialcost2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2034px;
+  height              : 21px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .heart3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2674px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2629px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .heart3 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .save3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2671px;
+  height              : 24px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2657px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .compare3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2713px;
+  height              : 24px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.weddingphotographersearchlist .rectangle21 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2715px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2574px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(176, 176, 176, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .a1503 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2601px;
+  height              : 27px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .initialcost3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2634px;
+  height              : 21px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.weddingphotographersearchlist .line32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1534px;
+  height              : 2px;
+  width               : 622px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1909px;
+  height              : 2px;
+  width               : 622px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2229px;
+  height              : 2px;
+  width               : 622px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.weddingphotographersearchlist .line35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2337px;
+  height              : 2px;
+  width               : 622px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}

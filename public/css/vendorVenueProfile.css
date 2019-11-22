@@ -1,0 +1,2846 @@
+
+
+.vendorvenueprofile {
+  width               : 100%;
+  min-width           : 2880px;
+  height              : 100vh;
+  min-height          : 5743px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.vendorvenueprofile .navbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 264px;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .navbar .homebutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1683px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.vendorvenueprofile .navbar .aboutusbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1888px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.vendorvenueprofile .navbar .signupbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2679px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.vendorvenueprofile .navbar .vendorsbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2308px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.vendorvenueprofile .navbar .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 152px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2519px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .navbar .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 1px;
+  width               : 2881px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .navbar .syerralogo01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 150px;
+  width               : 460px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .navbar .contactusbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2098px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.vendorvenueprofile .navbar .loginbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 64px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2536px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W3", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 45.0px;
+}
+.vendorvenueprofile .navbar .wecurrentlyonlyop {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 163px;
+  height              : 68px;
+  width               : 1205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 895px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .navbar .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 2px;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 386px;
+  height              : 912px;
+  width               : 759px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1940px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 912px;
+  width               : 759px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 .contactformdiv {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 912px;
+  box-sizing          : border-box;
+  width               : 759px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 .firstnametext {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 165px;
+  height              : 64px;
+  box-sizing          : border-box;
+  width               : 314px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 .lastnametext {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 165px;
+  height              : 64px;
+  box-sizing          : border-box;
+  width               : 314px;
+  position            : absolute;
+  margin              : 0;
+  left                : 407px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 .emailtext {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 289px;
+  height              : 64px;
+  box-sizing          : border-box;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 .emaillabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 312px;
+  height              : auto;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .contactform .contactform1 .phonetext {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 413px;
+  height              : 64px;
+  box-sizing          : border-box;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 .messagetovendortextbox {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 537px;
+  height              : 215px;
+  box-sizing          : border-box;
+  width               : 665px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 .sendmessagetovendorbutton {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 781px;
+  height              : 82px;
+  width               : 421px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .contactform .contactform1 .phonelabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 433px;
+  height              : auto;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .contactform .contactform1 .contactformlabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 71px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .contactform .contactform1 .firstnamelabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : 36px;
+  width               : 138px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .contactform .contactform1 .lastnamelabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : 36px;
+  width               : 138px;
+  position            : absolute;
+  margin              : 0;
+  left                : 427px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .contactform .contactform1 .sendbuttonlabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 813px;
+  height              : 23px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 349px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.vendorvenueprofile .footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5261px;
+  height              : 482px;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .footerdiv {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 0px;
+  height              : 482px;
+  box-sizing          : border-box;
+  width               : 2882px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .aboutsyerrabutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : 24px;
+  width               : 174px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .vendorsignupbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : 24px;
+  width               : 193px;
+  position            : absolute;
+  margin              : 0;
+  left                : 556px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .helpbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : 24px;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1025px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .ourcompanylabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 71px;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .footer .forvendorslabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 71px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 555px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .footer .helplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 71px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1024px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .footer .investorsbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 239px;
+  height              : 24px;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .vendorresourcesbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 239px;
+  height              : 24px;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 556px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .contactusbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 239px;
+  height              : 24px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1025px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .careersbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 285px;
+  height              : 24px;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .ourteambutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 331px;
+  height              : 32px;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.vendorvenueprofile .footer .ourteambutton .span1 {
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .ourteambutton .span2 {
+  font-family         : "AppleColorEmoji", Helvetica, Arial, serif;
+  line-height         : 32.0px;
+}
+.vendorvenueprofile .footer .advertisewithusbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 385px;
+  height              : 24px;
+  width               : 234px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(236, 236, 236, 1.0);
+  text-align          : center;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .footer .facebook1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2542px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .facebook1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .instagram1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1755px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .instagram1 .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .instagram1 .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23.50%;
+  height              : 53.00%;
+  width               : 53.00%;
+  position            : absolute;
+  margin              : 0;
+  left                : 23.50%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .instagram1 .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 11.00%;
+  top                 : 12.00%;
+  height              : 18.00%;
+  width               : 18.00%;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : 100px;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1956px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .twitter .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2361px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .linkedin .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .linkedin .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 41px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .linkedin .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 41px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .linkedin .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : 100px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2147px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .youtube .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .footer .youtube .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 52px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1537px;
+  height              : 589px;
+  box-sizing          : border-box;
+  width               : 2383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .a7500perguest {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1615px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 809px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .samplepackage1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1579px;
+  height              : 82px;
+  width               : 507px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 72.0px;
+}
+.vendorvenueprofile .loremipsumdolorsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1661px;
+  height              : 189px;
+  width               : 750px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a50guestmaximum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1693px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .wifi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1756px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .petfriendly {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1813px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .musiccanbeloudaf {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1870px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .openbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1934px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .tablesettingsprovi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1694px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1456px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .notimelimitonsta {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1750px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1456px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 393px;
+  height              : 567px;
+  width               : 1700px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 567px;
+  width               : 706px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .star15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 995px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .a92 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : 21px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1049px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .twinrivers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 24px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1205px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .line5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1179px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .star16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 895px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .star21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 845px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .star31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 945px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .star41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 795px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .a6091838329 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : 21px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 795px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .loremipsumdolorsi2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 113px;
+  height              : 171px;
+  width               : 907px;
+  position            : absolute;
+  margin              : 0;
+  left                : 795px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(151, 151, 151, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .weddingsmastersplaza0c530c58a5056b36c530c9455056b365ab49283c71a47e98fotor2 .palmtreeparadise {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 385px;
+  position            : absolute;
+  margin              : 0;
+  left                : 795px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .rectangle1 {
+  background-color    : rgba(255, 254, 254, 1.0);
+  top                 : 1383px;
+  height              : 106px;
+  box-sizing          : border-box;
+  width               : 479px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle2 {
+  background-color    : rgba(255, 254, 254, 1.0);
+  top                 : 1383px;
+  height              : 106px;
+  box-sizing          : border-box;
+  width               : 479px;
+  position            : absolute;
+  margin              : 0;
+  left                : 810px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .estimatednumberof {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1424px;
+  height              : 24px;
+  width               : 381px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .datenovember272 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1424px;
+  height              : 24px;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 842px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .rectangle3 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 1383px;
+  height              : 106px;
+  box-sizing          : border-box;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1358px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle4 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 1997px;
+  height              : 106px;
+  box-sizing          : border-box;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1640px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .search {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1393px;
+  height              : 87px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1460px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a56a7e8efb5862fotor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1540px;
+  height              : 589px;
+  width               : 670px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1963px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .reserve {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2032px;
+  height              : 37px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1733px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .viewmoredetails {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2022px;
+  height              : 28px;
+  width               : 252px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .rectangle5 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 2179px;
+  height              : 589px;
+  box-sizing          : border-box;
+  width               : 2383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .a9500perguest {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2257px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 809px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .samplepackage2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2221px;
+  height              : 82px;
+  width               : 507px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 72.0px;
+}
+.vendorvenueprofile .loremipsumdolorsi1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2303px;
+  height              : 189px;
+  width               : 750px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a50guestmaximum1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2335px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .wifi1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2398px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .petfriendly1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2455px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .musiccanbeloudaf1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2512px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .openbar1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2576px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .tablesettingsprovi1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2336px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1456px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .notimelimitonsta1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2392px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1456px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .rectangle6 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 2639px;
+  height              : 106px;
+  box-sizing          : border-box;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1640px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .a56a7e8efb5862fotor1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2182px;
+  height              : 589px;
+  width               : 670px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1963px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .reserve1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2674px;
+  height              : 37px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1733px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .viewmoredetails1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2664px;
+  height              : 28px;
+  width               : 252px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2821px;
+  height              : 592px;
+  width               : 2383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .package .rectangle21 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 589px;
+  box-sizing          : border-box;
+  width               : 2383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .package .a10500perguest {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 78px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 559px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .samplepackage3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 82px;
+  width               : 507px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 72.0px;
+}
+.vendorvenueprofile .package .loremipsumdolorsi2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 189px;
+  width               : 750px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .a50guestmaximum2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 853px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .wifi2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 219px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 853px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .petfriendly2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 276px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 853px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .musiccanbeloudaf2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 333px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 853px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .openbar2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 397px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 853px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .tablesettingsprovi2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 157px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1206px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .notimelimitonsta2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 213px;
+  height              : 24px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1206px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .rectangle110 {
+  background-color    : rgba(40, 82, 164, 1.0);
+  top                 : 460px;
+  height              : 106px;
+  box-sizing          : border-box;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1390px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .package .a56a7e8efb5862fotor2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 589px;
+  width               : 670px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1713px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .package .reserve2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 495px;
+  height              : 37px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1483px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .package .viewmoredetails2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 485px;
+  height              : 28px;
+  width               : 252px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(40, 82, 164, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .rectangle7 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 3654px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle8 {
+  background-color    : rgba(237, 213, 51, 1.0);
+  top                 : 3654px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle9 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 3714px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle10 {
+  background-color    : rgba(237, 213, 51, 1.0);
+  top                 : 3714px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle11 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 3774px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle12 {
+  background-color    : rgba(237, 213, 51, 1.0);
+  top                 : 3774px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle13 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 3834px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle14 {
+  background-color    : rgba(237, 213, 51, 1.0);
+  top                 : 3834px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle15 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 3894px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .rectangle16 {
+  background-color    : rgba(237, 213, 51, 1.0);
+  top                 : 3894px;
+  height              : 37px;
+  box-sizing          : border-box;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .a5star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3661px;
+  height              : 24px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a4star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3721px;
+  height              : 24px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a3star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3781px;
+  height              : 24px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a2star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3841px;
+  height              : 24px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a1star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3901px;
+  height              : 24px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a80 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3661px;
+  height              : 24px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 716px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3721px;
+  height              : 24px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 716px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3775px;
+  height              : 24px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 716px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3841px;
+  height              : 24px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 716px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3901px;
+  height              : 24px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 716px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(158, 158, 158, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.vendorvenueprofile .rectangle17 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 4047px;
+  height              : 323px;
+  box-sizing          : border-box;
+  width               : 2383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .reviews {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3536px;
+  height              : 54px;
+  width               : 411px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .reviewtitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4081px;
+  height              : 36px;
+  width               : 245px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4079px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 759px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4079px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4079px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 609px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4079px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 709px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4079px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 559px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .reviewername {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4132px;
+  height              : 18px;
+  width               : 219px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .date {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4162px;
+  height              : 18px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .atveroeosetaccus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4195px;
+  height              : 140px;
+  width               : 1700px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .rectangle18 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 4417px;
+  height              : 323px;
+  box-sizing          : border-box;
+  width               : 2383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .reviewtitle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4451px;
+  height              : 36px;
+  width               : 245px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .star5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4449px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 759px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4449px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4449px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 609px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4449px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 709px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4449px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 559px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .reviewername1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4502px;
+  height              : 18px;
+  width               : 219px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .date1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4532px;
+  height              : 18px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .atveroeosetaccus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4565px;
+  height              : 140px;
+  width               : 1700px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .rectangle19 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 4777px;
+  height              : 323px;
+  box-sizing          : border-box;
+  width               : 2383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  border-style        : solid;
+  border-width        : 3px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .reviewtitle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4811px;
+  height              : 36px;
+  width               : 245px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .star10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4809px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 759px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4809px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 659px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4809px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 609px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4809px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 709px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .star14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4809px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 559px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .reviewername2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4862px;
+  height              : 18px;
+  width               : 219px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .date2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4892px;
+  height              : 18px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .atveroeosetaccus2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4925px;
+  height              : 140px;
+  width               : 1700px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.vendorvenueprofile .a4starreviews {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3983px;
+  height              : 49px;
+  width               : 311px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(129, 128, 128, 1.0);
+  text-align          : left;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .rectangle20 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 3922px;
+  height              : 90px;
+  box-sizing          : border-box;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2218px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .sortby4star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3949px;
+  height              : 36px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2226px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HiraginoSansCNS-W6", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 54.0px;
+}
+.vendorvenueprofile .downchevron {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3957px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2560px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.vendorvenueprofile .downchevron .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
